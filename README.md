@@ -5,7 +5,7 @@ Shell script for downloading the [dotfiles](https://github.com/dankeezer/dotfile
 ## Usage
 
 ```bash
-$ curl dots.dankeezer.com | sh
+$ curl -L dots.dankeezer.com | sh
 ```
 
 ```bash
