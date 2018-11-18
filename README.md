@@ -1,7 +1,5 @@
 # `dots.dankeezer.com`
 
-Directly inspired by Darryl Abbate: https://github.com/rootbeersoup/get.darryl.sh
-
 Shell script for downloading the [dotfiles](https://github.com/dankeezer/dotfiles) repo, to be invoked with `curl` or `wget`.
 
 ## Usage
@@ -25,3 +23,5 @@ While `curl | sh` is considered an "unsafe" practice by many, we can mitigate ri
 ```bash
 $ curl dots.dankeezer.com | shasum -a 256
 ```
+## Credit
+Directly inspired by Darryl Abbate: https://github.com/rootbeersoup/get.darryl.sh
